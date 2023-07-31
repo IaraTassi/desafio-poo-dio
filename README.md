@@ -1,7 +1,7 @@
 <h1>Desafio: Santander Code Girls</h1>
 
 <p> Desafio: <strong>Abstraindo um Bootcamp Usando Orientação a Objetos em Java.</strong>
- 🚀   O Projeto é uma iniciantiva do Santander Universidades com parceria DIGITAL INNOVATION ONE, com foco na capacitação de mulheres que tem interesse na área de Tecnologia. 
+ 🚀   O Projeto é uma iniciativa do Santander Universidades com parceria DIGITAL INNOVATION ONE, com foco na capacitação de mulheres que tem interesse na área de Tecnologia. 
     🧡 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
 
